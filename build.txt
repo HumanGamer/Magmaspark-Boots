@@ -1,6 +1,7 @@
 author = HumanGamer
 version = 1.0
 displayName = Magmaspark Boots
+homepage = https://github.com/HumanGamer/MagmasparkMod
 hideCode = false
 hideResources = false
 includeSource = true
