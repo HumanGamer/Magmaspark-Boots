@@ -1,0 +1,8 @@
+author = HumanGamer
+version = 1.0
+displayName = Magmaspark Boots
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.sln, *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true

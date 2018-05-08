@@ -1,0 +1,3 @@
+A mod that adds Magmaspark Boots (Frostspark Boots + Lava Waders).
+
+Also makes Lava Charm craftable.
