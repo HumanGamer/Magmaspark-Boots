@@ -23,8 +23,6 @@ namespace MagmasparkMod
         public override void Load()
         {
             Instance = this;
-
-            //AddItem("Sparkwave Boots", new SparkwaveBootsItem());
         }
 
         public override void Unload()
